@@ -1,4 +1,4 @@
-# README.md Markdown Cheatsheet
+# Markdown Cheatsheet
 
 ## Headers
 
